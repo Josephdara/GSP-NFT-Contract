@@ -1,5 +1,5 @@
 const WHITELIST_CONTRACT_ADDRESS = "0x63BBC8F038c0D1B6841d15B29178858cF6eA1Ae2";
 
-const METADATA_URL = "https://glorysoundjd.vercel.app/api/";
+const METADATA_URL = "https://gsp-dapp.vercel.app/api/";
 
 module.exports = { WHITELIST_CONTRACT_ADDRESS, METADATA_URL };

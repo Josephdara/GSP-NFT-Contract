@@ -11,3 +11,6 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+```
+0x20c3b72459489382CAeB7b7A677b6D554a8f3195 is where glory sound punks vibe
+```
